@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujoydey12 a Senior Java Software Engineer.
 - 👀 I’m interested in Java,Kotlin,Python and DevOps
-- 🌱 I’m currently learning more Advance stuff on java
+- 🌱 I’m currently learning more Advance stuff on Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
